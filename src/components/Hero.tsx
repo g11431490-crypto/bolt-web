@@ -19,7 +19,7 @@ export default function Hero({ onGetStarted }: HeroProps) {
         <div className="max-w-7xl mx-auto flex items-center justify-between">
           <div className="flex items-center space-x-3">
             <img
-              src="/WhatsApp Image 2025-11-05 at 11.46.48 PM.jpeg"
+              src="/whatsapp_image_2025-12-28_at_6.04.56_pm.jpeg"
               alt="METAREACH AI Logo"
               className="h-12 w-12 object-contain drop-shadow-lg"
             />

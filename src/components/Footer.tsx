@@ -19,7 +19,7 @@ export default function Footer({ onContact }: FooterProps) {
           <div className="lg:col-span-2">
             <div className="flex items-center space-x-3 mb-4">
               <img
-                src="/WhatsApp Image 2025-11-05 at 11.46.48 PM.jpeg"
+                src="/whatsapp_image_2025-12-28_at_6.04.56_pm.jpeg"
                 alt="METAREACH AI Logo"
                 className="h-10 w-10 object-contain"
               />

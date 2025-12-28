@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react';
 import Hero from './components/Hero';
 import Services from './components/Services';
-import BrandCreatives from './components/BrandCreatives';
 import Features from './components/Features';
 import CTA from './components/CTA';
 import Footer from './components/Footer';
@@ -28,7 +27,6 @@ function App() {
     <div className="min-h-screen bg-black">
       <Hero onGetStarted={() => setIsModalOpen(true)} />
       <Services onGetStarted={() => setIsModalOpen(true)} />
-      <BrandCreatives />
       <Features />
       <CTA onGetStarted={() => setIsModalOpen(true)} />
       <Footer onContact={() => setIsContactOpen(true)} />
